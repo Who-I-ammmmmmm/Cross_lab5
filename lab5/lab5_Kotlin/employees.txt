@@ -1,0 +1,3 @@
+Nick,Developer,140
+Katrin,Manager,160
+Jame,Employee,140

@@ -1,0 +1,4 @@
+Nick,Developer,140
+Katrin,Manager,160
+Jame,Employee,130
+Ganry,Manager,120
